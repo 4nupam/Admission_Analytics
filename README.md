@@ -1,3 +1,4 @@
+<img width="1451" height="725" alt="Screenshot 2026-02-28 at 7 53 45 PM" src="https://github.com/user-attachments/assets/1092baca-0655-4916-a176-f38ba15fed7c" />
 
 ADMISSION ANALYTICS DASHBOARD
 
@@ -109,7 +110,7 @@ db.json
 Step 1: Install JSON Server
 
 Option A (Global Install)
-npm install -g json-server<img width="1451" height="725" alt="Screenshot 2026-02-28 at 7 53 45 PM" src="https://github.com/user-attachments/assets/1092baca-0655-4916-a176-f38ba15fed7c" />
+npm install -g json-server
 
 
 Option B (Local Dev Dependency)
