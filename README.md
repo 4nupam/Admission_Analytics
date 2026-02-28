@@ -21,7 +21,7 @@ Tailwind CSS (Responsive UI)
 
 Recharts (Charts & Data Visualization)
 
-Axios (API Integration)
+Fetch (API Integration)
 
 Backend (Mock Server):
 
